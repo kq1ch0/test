@@ -16,4 +16,6 @@
 
 [Twitter](https://twitter.com)
 
+[サブページリンク](./test.html)
+
 ![主婦](./airgun_women_syufu.png "自粛サイコー")
